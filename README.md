@@ -1,4 +1,4 @@
-Many experts have placed Donald Trump's speaking ability around an 8th grade level. This project aims to reduce his executive orders down to that same reading grade level.
+[Many experts have placed Donald Trump's speaking ability at an 8th grade level or lower](https://encrypted.google.com/search?q=donald%20speaking%20level). This project aims to reduce his executive orders down to that same reading grade level.
 
 The goal is the reduce the complexity of each document while trying to maintain as much of the original language as possible. This keeps the result closer to the source and makes it easier to understand future orders.
 
