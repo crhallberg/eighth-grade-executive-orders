@@ -1,6 +1,6 @@
-[Many experts have placed Donald Trump's speaking ability at an 8th grade level or lower](https://encrypted.google.com/search?q=donald%20speaking%20level). This project aims to reduce his executive orders down to that same reading grade level.
+[Many experts have placed Donald Trump's speaking ability at an 8th grade level or lower](https://encrypted.google.com/search?q=donald%20speaking%20level). This project aims to edit his executive orders down to that same reading grade level.
 
-The goal is the reduce the complexity of each document while trying to maintain as much of the original language as possible. This keeps the result closer to the source and makes it easier to understand future orders.
+The goal is the reduce the complexity of each document while maintaining as much of the original language as possible. This keeps the results closer to their sources and makes it easier to understand future orders.
 
 Feel free to submit your own takes via pull request. You can also leave comments and suggestions as [Issues](https://github.com/crhallberg/eighth-grade-executive-orders/issues) or as comments on [commits](https://github.com/crhallberg/eighth-grade-executive-orders/commits/master). Look for the plus sign on the left as you hover over the document changed by that commit.
 
