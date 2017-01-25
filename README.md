@@ -6,6 +6,8 @@ Feel free to submit your own takes via pull request. You can also leave comments
 
 We use the [Hemmingway Online Editor](http://beta.hemingwayapp.com/) to determine reading level.
 
+- - - - - - -
+
 Executive Orders By Title:
  - [Minimizing the Economic Burden of the Patient Protection and Affordable Care Act Pending Repeal](https://github.com/crhallberg/eighth-grade-executive-orders/blob/master/2017-01-20.md) (January 20th, 2017)
  - Expediting Environmental Reviews and Approvals For High Priority Infrastructure Projects (January 24th, 2017) (in progress)
